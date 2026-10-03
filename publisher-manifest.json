@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d1bb1367a7d1ba58a6a99215",
+  "owner": "kutxvvg3w",
+  "repo": "page-8eae86f48ad2db25bc1391c5",
+  "title": "色拉加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8eae86f48ad2db25bc1391c5",
+      "a": "色拉加速",
+      "b": "",
+      "entity": "色拉加速",
+      "brand": "色拉加速",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c671111ebc5fcc3b180c779422d21c05793e76b18c1ee7dd14b11eb2654807f1",
+      "content": {
+        "keyword1": "色拉加速",
+        "keyword2": "",
+        "primary_entity": "色拉加速",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "色拉加速是专注VPN梯子与网络加速的官方平台，提供机场订阅、多平台客户端下载及高速节点服务，覆盖流媒体、游戏与办公加速需求。",
+          "AI_DESCRIPTION": "色拉加速是专注VPN梯子与网络加速的官方平台，提供机场订阅、多平台客户端下载及高速节点服务，覆盖流媒体、游戏与办公加速需求。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f3f4f6;color:#1f2937;font-size:16px;line-height:1.65;overflow-x:hidden;word-wrap:break-word}a{color:#6d28d9;text-decoration:none}header{background:#5b21b6;color:#fff;padding:14px 0}header a{color:#fff;font-weight:500}.nav-inner{display:flex;flex-wrap:wrap;gap:10px 18px;justify-content:center}.container{width:100%;max-width:1080px;margin:0 auto;padding:16px}h1{font-size:2.2rem;text-align:center;color:#4c1d95;margin:24px 0 8px;font-weight:700}.lead{text-align:center;font-size:1.15rem;color:#4b5563;margin:0 auto 32px;max-width:740px}h2{font-size:1.7rem;color:#5b21b6;margin:0 0 16px}h3{font-size:1.25rem;color:#6d28d9;margin:16px 0 8px}p{margin-bottom:12px}ul,ol{margin-bottom:16px;padding-left:1.4em}.stagger{display:flex;gap:28px;margin:36px 0;align-items:flex-start}.stagger .col{flex:1;min-width:0}.reverse{flex-direction:row-reverse}.plan-wrap{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;margin:24px 0 40px}.plan{background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:24px}.plan.featured{border:2px solid #7c3aed;background:#faf5ff}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:1.5rem;font-weight:700;color:#4c1d95}.annual{font-size:0.9rem;color:#6b7280;margin:4px 0 12px}.plan ul{margin-top:12px;padding-left:18px}.plan li{margin:6px 0}#faq{background:#ede9fe;padding:48px 0;margin:40px 0}#faq h2{font-size:2rem;text-align:center}.faq-intro{text-align:center;margin-bottom:24px}details{background:#fff;border-radius:8px;margin:10px 0;padding:4px 16px 12px;border:1px solid #ddd6fe}summary{font-weight:600;color:#5b21b6;padding:12px 0;font-size:1.05rem}details p{color:#374151;padding-bottom:4px}footer{background:#1f2937;color:#d1d5db;padding:32px 0;margin-top:40px;font-size:0.95rem}footer a{color:#c4b5fd}footer h2{color:#e9d5ff;font-size:1.2rem}.sitemap-list{list-style:none;display:flex;flex-wrap:wrap;gap:12px 24px;padding:0;margin:12px 0 24px}.ad-section,.links-section{padding:8px 0 24px}.links-section nav{display:flex;flex-wrap:wrap;gap:12px 16px}#download ul{list-style:none;padding-left:0}#download li{margin:10px 0;padding:10px 14px;background:#fff;border-radius:8px;border-left:4px solid #7c3aed}@media (max-width:767px){h1{font-size:1.8rem}.stagger,.reverse{flex-direction:column}.nav-inner{gap:8px}.plan-wrap{grid-template-columns:1fr}details{padding:4px 12px 10px}}</style><header><div class=\"container\"><nav class=\"nav-inner\" aria-label=\"页面导航\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a></nav></div></header><main><div class=\"container\"><h1>色拉加速</h1><p class=\"lead\">色拉加速官方网站提供VPN梯子、机场订阅与多端客户端下载，用稳定节点和清晰套餐帮你完成网络加速。</p><section id=\"intro\" class=\"stagger\"><div class=\"col\"><h2>品牌简介</h2><p>色拉加速是面向个人与小团队的网络加速品牌，同时覆盖VPN使用习惯和机场订阅模式。用户既可以在官方客户端里一键连接，也可以把订阅链接导入常用工具，按自己的设备与场景完成加速。</p><p>我们把节点质量、流媒体解锁和游戏线路作为核心能力来建设。基础浏览、跨境办公、影视与对延迟敏感的游戏，都可以在同一套订阅体系里完成切换。本站是色拉加速官网，客户端与套餐说明均以这里为准，避免从不明来源获取安装包。</p></div><div class=\"col\"><h3>你可以期待什么</h3><ul><li>多区域节点，日常访问与分流更从容</li><li>兼容主流协议，方便导入各类客户端</li><li>套餐分层清晰，流量、设备数与专线能力可对号入座</li><li>旗舰线路强调IPLC游戏优化与原生解锁</li><li>官网提供操作说明与下载入口，减少配置弯路</li></ul></div></section><section id=\"plans\"><h2>套餐方案</h2><p>以下套餐按流量、同时在线设备与线路能力划分。个人用户多从旗舰版起步，小团队或工作室可直接看团队版。年付仅改变结算周期，权益与月付对应档位一致。</p><div class=\"plan-wrap\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">热门推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\" class=\"stagger reverse\"><div class=\"col\"><h2>使用场景</h2><p>色拉加速把「能连上」和「连得稳」拆开看。看剧要的是解锁成功率，开会要的是不掉线，打游戏要的是延迟和丢包。不同套餐对应不同线路池，不必为所有场景都上最贵方案。</p><ul><li>海外流媒体：纪录片、剧集与音乐平台，旗舰版侧重原生解锁</li><li>国际服游戏：对延迟敏感的对局，优先使用带 IPLC 说明的节点</li><li>远程协作：邮件、网盘、会议软件走稳定线路，减少回程绕路</li><li>资料检索：学术站点、开发文档与软件源，适合长时间挂机</li></ul></div><div class=\"col\"><h3>怎么选场景对应的档位</h3><p>偶尔查资料、看公开视频，基础版的普通线路节点池通常够用。经常切换影视区、晚上高峰也要保持速度，旗舰版的流量与专线更匹配。多人共用一个订阅、需要单独路由策略时，再考虑团队版的设备数与客户经理支持。</p><p>同一订阅可在电脑和手机间切换，只要同时在线数不超过套餐上限。把常用设备先连上，再把临时设备当作备份，体验更稳。</p></div></section><section id=\"guide\" class=\"stagger\"><div class=\"col\"><h2>操作说明</h2><ol><li>在官网选定套餐并完成订阅，进入用户中心复制机场订阅地址。</li><li>打开本页「官方下载」查看对应系统的客户端说明，安装正版程序。</li><li>在客户端中选择订阅/URL 导入，粘贴链接并更新节点列表。</li><li>按延迟或地区筛选节点；看剧选解锁节点，游戏选 IPLC 或低丢包节点。</li><li>开启系统代理或虚拟网卡模式，访问目标站点确认规则是否生效。</li><li>若应用走了直连，检查分流规则或对单个应用开启代理。</li></ol></div><div class=\"col\"><h3>配置时请留意</h3><p>只从色拉加速官网或用户中心提供的通道获取客户端，不要使用来路不明的修改包。订阅链接等同登录凭证，不要发到公开群组或截图外传。</p><p>首次连接建议先测延迟再跑大流量。系统时间误差过大会导致握手失败，移动网络切换 Wi-Fi 后可手动重连一次。旗舰用户遇到线路问题可走优先工单，说明设备系统、客户端名称和节点名称，处理会更快。</p></div></section><section class=\"stagger reverse\"><div class=\"col\"><h2>节点与线路</h2><p>色拉加速的节点按用途分组：普通线路承担浏览与下载，专线承担对抖动敏感的实时应用。旗舰版明确包含 IPLC 专线游戏加速优化，团队版在此基础上提供更高带宽的 VIP 节点，并支持按企业需求调整路由。</p><p>实际延迟与你所在运营商、时段有关，因此客户端里请以实时测速为准，而不是只看国家名字。晚高峰优先选负载较低的分组，把下载任务放到非实时节点，把会议和游戏留在专线。</p></div><div class=\"col\"><h3>机场订阅怎么理解</h3><p>机场订阅是一份会更新的节点清单。你只需保存一条链接，客户端定时拉取，新增或下线的服务器会自动同步，不必每次手动添加单个配置。</p><p>色拉加速VPN的使用方式与机场订阅可以并存：习惯一键连接的用户用官方客户端，习惯 Clash 等工具的用户导入同一订阅即可。协议兼容以客户端实际支持为准，导入后请更新一次再连接。</p></div></section></div><section id=\"faq\"><div class=\"container\"><h2>常见问题</h2><p class=\"faq-intro\">下面集中回答选购、下载、设备和线路相关的问题。点开即可阅读完整说明，无需离开本页。</p><details><summary>色拉加速是VPN还是机场？两者有什么关系？</summary><p>色拉加速同时提供VPN式的一键连接体验，以及标准机场订阅。官方客户端适合想少折腾的用户；若你已有常用工具，把订阅链接导入即可使用同一批节点。品牌定位是网络加速器，重点在稳定访问、解锁和游戏线路，而不是堆砌无关功能。</p></details><details><summary>如何从官网完成客户端下载？</summary><p>在本页「官方下载」区域按操作系统查看说明，再到用户中心获取与当前套餐匹配的安装包或配置。Windows、macOS、Android 是最常见路径；iOS 需使用兼容订阅的应用。请始终回到色拉加速官网核对来源，避免第三方站点改包。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>看三件事：每月流量、同时在线台数、要不要专线与原生解锁。基础版每月 100GB、3 台设备，适合轻度使用。旗舰版 300GB、5 台设备，含全节点原生流媒体解锁和 IPLC 游戏优化，并提供 7x24 优先工单，适合大多数个人用户。团队版 1000GB、20 台设备，带 VIP 高带宽节点、定制路由和专属客户经理，适合共用场景。</p></details><details><summary>流量如何计算？用完还能不能上网？</summary><p>套餐标注的是当月极速流量额度，在线传输计入该额度。用尽后一般不再保证极速，可升级档位或等待下个计费周期重置。下载和 4K 播放消耗更快，建议把大文件放到非高峰，并把游戏、会议留在专线节点，避免把额度浪费在可缓存的内容上。</p></details><details><summary>多设备同时在线有什么限制？</summary><p>基础版最多 3 台、旗舰版 5 台、团队版 20 台同时在线。同一订阅可以装在更多设备上，但并发连接受档位限制，超出会出现抢线或频繁掉线。家庭或工作室把常用电脑、手机算进配额，临时设备用完即断开，体验更稳定。</p></details><details><summary>流媒体解锁和游戏加速分别怎么选节点？</summary><p>看剧选带解锁说明的节点，旗舰与团队的全节点原生解锁更适合需要验证的平台。游戏不要只看国家名，优先选 IPLC 或游戏优化分组，连接后观察延迟和丢包。若某个节点能开网页但视频卡验证，换解锁组而不是反复重连同一条线路。</p></details><details><summary>订阅链接泄露了怎么办？工单如何提交？</summary><p>立刻在用户中心重置订阅，旧链接会失效，然后在各客户端里更新一次。不要把二维码发到公开频道。旗舰版可走 7x24 优先工单，团队版可联系专属客户经理。提交时写清系统版本、客户端名称、节点名和发生时间，便于对照线路状态。</p></details></div></section><div class=\"container\"><section id=\"download\"><h2>官方下载</h2><p>色拉加速客户端下载以官网和用户中心为准。安装完成后导入机场订阅，即可在电脑与手机间同步节点。下列入口均为页内指引，实际文件请登录后获取对应架构版本。</p><ul><li><a href=\"#download\">Windows 客户端</a>：适合桌面常驻，可配合系统代理或虚拟网卡。</li><li><a href=\"#download\">macOS 客户端</a>：注意系统网络权限与分流模式。</li><li><a href=\"#download\">Android 客户端</a>：建议开启开机自启与电池优化白名单，减少后台被杀。</li><li><a href=\"#download\">iOS 客户端说明</a>：使用支持订阅的应用导入，按商店地区与系统版本准备。</li><li><a href=\"#download\">Linux 与路由</a>：适合网关部署，团队版定制路由可在此基础上调整。</li></ul><p>下载后核对版本说明，优先使用能自动更新订阅的客户端。若公司网络限制 UDP，可在客户端中切换传输方式再试。</p></section><section class=\"ad-section\" id=\"ads\"><h2>广告合作</h2><p>本站可展示与网络工具、设备周边及内容服务相关的合作信息。色拉加速用户以需要跨境访问、影视与游戏加速的人群为主，适合互补型产品。合作细节通过官网公示渠道沟通，不在页面承诺未确认的投放效果。</p></section><section class=\"links-section\" id=\"links\"><h2>友情链接</h2><nav><a href=\"#\">客户端配置笔记</a><a href=\"#\">分流规则入门</a><a href=\"#\">节点延迟对照</a><a href=\"#\">隐私与加密常识</a><a href=\"#\">远程办公网络清单</a></nav></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"container\"><section id=\"sitemap\"><h2>网站地图</h2><ul class=\"sitemap-list\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#download\">官方下载</a></li><li><a href=\"#ads\">广告合作</a></li><li><a href=\"#links\">友情链接</a></li></ul></section><p>色拉加速官方网站 · VPN梯子与机场订阅服务介绍及客户端下载指引。使用加速服务请遵守所在地法律法规。</p></div></footer>",
+          "hash": "26bd9b03d8b798a4634cbae295ddb3836e8dcb8f68de970666f264001790649b",
+          "seo": {
+            "title": "色拉加速官方网站｜VPN梯子网络加速与机场客户端下载",
+            "keywords": "色拉加速,色拉加速VPN,色拉加速机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,官方网站,IPLC专线",
+            "description": "色拉加速是专注VPN梯子与网络加速的官方平台，提供机场订阅、多平台客户端下载及高速节点服务，覆盖流媒体、游戏与办公加速需求。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bvkifru.cn",
+    "host": "p-c45174127d.bvkifru.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bvkifru.cn",
+      "url": "https://bvkifru.cn/",
+      "label": "HorizonBirth",
+      "apex": "bvkifru.cn",
+      "kind": null,
+      "identity": "ju79qjwha/page-546dac532a12fc8a6f860fe2"
+    },
+    {
+      "host": "bbkdq.cn",
+      "url": "https://bbkdq.cn/",
+      "label": "色拉加速",
+      "apex": "bbkdq.cn",
+      "kind": null,
+      "identity": "euqqmbpu/page-648723bbb3b3f36e7a4b1b99"
+    },
+    {
+      "host": "daxunyunjc.com",
+      "url": "https://daxunyunjc.com/",
+      "label": "色拉加速",
+      "apex": "daxunyunjc.com",
+      "kind": null,
+      "identity": "mfjpfmd/page-33f4b348283919f04df138c6"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "92122db80faef5306b84031c3916f38507fb4f57437f507c995f5c4031a9ef13",
+    "sitemap.xml": "b7e88bf882b1583299d87bb5d1301b8f92fa99eae6fcf92d4940463fc7b7f072",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8a728ac3525594c4e67b0b36e4d66206cd5fe1e103e53b04a85e4be32e997f32",
+    "robots.txt": "58d91417a2a83a9a741435e5e129f37d100af59b67c03cf8e3b2ca17f798640f",
+    "57664813e4b3239bcf8f86da5e375146.txt": "0be7f162b4dafc158e7214ec08b9b7a302d38385ed264ee82c7eb1da919bf7d5"
+  },
+  "revision": "5e1bcff1435478fb2d5b1f48a3937750d4f44fa858f3d8ad0035f49a7504878b"
+}
